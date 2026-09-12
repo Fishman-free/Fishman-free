@@ -12,18 +12,28 @@
 
 ## 🚀 What I'm Working On
 
-### 🤖 平台治理智能体 · Platform Governance Agent
-> 国家级立项 · National-level Innovation Project
+### 🛡️ AgentTrust · Trust Infrastructure for AI Agents
+> Independent Project · [agenttrust.site](https://agenttrust.site) · Solidity · Base Sepolia
+
+Trust infrastructure for **agent-to-agent commerce** — identity registration, transaction escrow, dispute resolution, and reputation records — implemented as four Solidity contracts (`AgentRegistry`, `GuaranteeEscrow`, `SchellingVoting`, `ReputationHub`) aligned with **ERC-8004 (Trustless Agents)**. Verified by Foundry unit, fuzz, E2E, and invariant tests.
+
+### 🔬 Poliscope · Multi-Agent Deep Research
+> Independent Project · [poliscope.tech](https://poliscope.tech/) · Python
+
+A **deep-research agent** for contested questions: seven specialized AI scientists gather evidence independently, cross-examine one another, and produce a controversy evidence map where conclusions sit beside limitations, every claim traces to its source, and no dissent is deleted. Built on **EpistemoBrain**, the multi-agent generalization of MemoBrain (ACL Findings 2026).
+
+### 🤖 Platform Governance Agent
+> National-level Innovation Project
 
 A cloud-collaborative **AI agent system** for detecting malicious **GEO-poisoned webpages**. I lead the agent-development module — designing agents that power platform governance at scale.
 
-### 🧬 「抑触即发」· AI-CAR-NK Cell Drug
-> 挑战杯 · 上海 · Municipal 3rd Prize
+### 🧬 AI-CAR-NK Cell Drug
+> Challenge Cup · Shanghai · Municipal 3rd Prize
 
 Engineering an **AI-CAR-NK full-process intelligent quality-control system** at the intersection of AI & biomedicine — algorithm development, multi-modal data analysis, and intelligent release-decision models for next-gen immunotherapy.
 
-### 🏫 智慧校园 · AI × Metaverse Smart Campus
-> 青创北京 挑战杯 · 首都 · Municipal 2nd Prize
+### 🏫 AI × Metaverse Smart Campus
+> Challenge Cup Beijing · Capital · Municipal 2nd Prize
 
 Building UE5 **digital humanoid robots** and simulated campus environments with multi-scenario interaction — fusing AI with virtual space to break the traditional education paradigm.
 
@@ -48,7 +58,7 @@ Building UE5 **digital humanoid robots** and simulated campus environments with 
 
 ## 🛠️ Tech I Use
 
-- **Languages:** Python · C/C++
+- **Languages:** Python · C/C++ · Solidity
 - **Focus:** AI Agents · LLMs · Web Development · Quantitative Investing
 
 ---
@@ -59,6 +69,6 @@ Building UE5 **digital humanoid robots** and simulated campus environments with 
 
 <div align="center">
 
-*GPA 3.86 / 4.00 · MCM/ICM Honorable Mention (2025)*
+*MCM/ICM Honorable Mention (2025)*
 
 </div>
