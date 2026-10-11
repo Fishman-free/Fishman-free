@@ -1,8 +1,12 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1f6feb,100:0d1117&height=150&section=header)
+
 # 👋 Hi, I'm Fishman (Jude Ma · 马珠淇)
 
 **🎓 FinTech Undergraduate · School of Information · Renmin University of China**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+intelligent+agents+that+reason%2C+remember+%26+transact;AI+%C3%97+Blockchain+%C3%97+Autonomous+Systems;FinTech+%40+Renmin+University+of+China;Cypherpunk+%C2%B7+BTC+holder+%C2%B7+Vibe+coder)](https://git.io/typing-svg)
 
 *Building intelligent agents at the intersection of AI, blockchain & autonomous systems.*
 
@@ -53,7 +57,6 @@ Upload data → auto-clean → quality scorecard → streaming Q&A → NL2Vis ch
 - 🤖 **Platform Governance Agent** — national-level innovation project: cloud-collaborative AI agents for detecting GEO-poisoned webpages; I lead the agent-development module
 - 🏫 **AI × Metaverse Smart Campus** — Challenge Cup Beijing, municipal 2nd prize: UE5 digital humans + simulated campus environments
 - 🥉 **MCM/ICM 2025** — Honorable Mention
-- 📊 **CUMCM 2026** — complete solution & paper in [`c-problem`](https://github.com/Fishman-free/c-problem)
 
 ---
 
@@ -84,6 +87,14 @@ Upload data → auto-clean → quality scorecard → streaming Q&A → NL2Vis ch
 - 🐙 GitHub: you're already here
 
 <div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fishman-free/Fishman-free/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fishman-free/Fishman-free/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Fishman-free/Fishman-free/output/github-contribution-grid-snake.svg">
+</picture>
 
 *Most repos ship with honest status matrices — what is proven, what is assumed, and what is still missing.*
 
