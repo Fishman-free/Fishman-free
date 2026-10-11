@@ -12,6 +12,20 @@
 
 ## 🚀 Flagship Projects
 
+### 🥊 REDTEAM · Adversarial Security Research for AI Payment Agents
+> Python · Ethereum · Active research — [project site](https://fishman-free.github.io/REDTEAM/)
+
+My main research line: **when an AI agent can read orders, call tools, and request payments, how does it hold the line on user authorization — and how do we turn findings into verifiable fixes?**
+
+The core module, **PayAssist**, runs a closed "test → find → fix → re-verify" loop under explicit authorization, isolated environments, and simulated funds:
+
+- **Two permission levels** — L0 (no payment allowed: browse, verify orders, create invoices) and L1 (exactly one precise payment: matching payee, amount, currency, and purpose; paid orders never paid twice).
+- **Four external information channels** — merchant dialogue, tool returns, external documents, external memory. They may inform, but they can never create or expand payment authorization.
+- **Controlled attacks** — attack inputs are paired with attack-free normal runs; a finding only counts when independently confirmed on both.
+- **Defense packs** — fixes (prompts, controlled experience, declarative defense configs) must pass a pre-committed acceptance gate: the original counterexample disappears, normal tasks still complete, and re-tests on fresh cases hold. Failed versions are rejected, not shipped.
+
+One validation round (2026-10-05, Qwen3-4B-Instruct-2507): 1,009 trials, 19 confirmed findings, 449 simulated payments — **zero out-of-authorization** — with 12 findings still open. The repo also ships **REDTEAM Flower**, a local soulbound-NFT prototype (ERC-721 + ERC-5192, transfer permanently disabled) that records audited research contributions — recognition, not speculation.
+
 ### 🛡️ AgentTrust · Trust Infrastructure for AI Agents
 > [agenttrust.site](https://agenttrust.site) · Solidity · Next.js · Base Sepolia
 
@@ -21,11 +35,6 @@ Trust infrastructure for **agent-to-agent commerce**: identity registration (`Ag
 > [poliscope.tech](https://poliscope.tech/) · Python · TypeScript
 
 A **deep-research agent** for contested questions: seven specialized AI scientists gather evidence independently, cross-examine each other, and produce a controversy evidence map — every claim traces to its source, conclusions sit beside limitations, and dissent is preserved as named certificates instead of being voted away. Built on **EpistemoBrain**, the multi-agent generalization of MemoBrain (ACL Findings 2026). Web / API / CLI / Agent-Skill, four entrances to one protocol.
-
-### 🥊 REDTEAM · Adversarial Security Research for AI Payment Agents
-> Python · Ethereum · Active research
-
-Studies how AI agents that read orders, call tools, and request payments hold the line on **user authorization**. Controlled attacks (merchant dialogue, tool returns, external docs, external memory) against L0/L1 payment permissions, paired attack/normal runs, independent verdicts on four separate records, defense-pack fixes that only pass a **pre-committed acceptance gate** — all under simulated funds. Includes a soulbound **Flower NFT** prototype (ERC-721 + ERC-5192, transfer permanently disabled) for audited research-contribution recognition.
 
 ### 📈 youngmoney (bnbot) · Quant Trading Framework
 > Python · Paper-first
@@ -68,7 +77,6 @@ Hover an English word for ~5 seconds, get a card with Chinese definition, phonet
 ## 🏆 Competitions & Projects
 
 - 🤖 **Platform Governance Agent** — national-level innovation project: cloud-collaborative AI agents for detecting GEO-poisoned webpages; I lead the agent-development module
-- 🧬 **AI-CAR-NK Cell Drug** — Challenge Cup Shanghai, municipal 3rd prize: full-process intelligent QC for AI-CAR-NK immunotherapy
 - 🏫 **AI × Metaverse Smart Campus** — Challenge Cup Beijing, municipal 2nd prize: UE5 digital humans + simulated campus environments
 - 🥉 **MCM/ICM 2025** — Honorable Mention
 - 📊 **CUMCM 2026** — complete solution & paper in [`c-problem`](https://github.com/Fishman-free/c-problem)
@@ -78,6 +86,7 @@ Hover an English word for ~5 seconds, get a card with Chinese definition, phonet
 ## 🧠 About Me
 
 - 🧠 ENTJ | Builder mindset
+- 🪙 **BTC holder** — long-term conviction in hard money
 - 🤖 AI agents & autonomous systems — how they reason, remember, and transact
 - 🗣️ Deep discussions on politics, technology & society
 - 📈 Quantitative investing & algorithmic strategies
