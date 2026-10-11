@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Fishman (Jude Ma · 马珠淇)
 
-**🎓 CS Undergraduate · School of Information · Renmin University of China**
+**🎓 FinTech Undergraduate · School of Information · Renmin University of China**
 
 *Building intelligent agents at the intersection of AI, blockchain & autonomous systems.*
 
@@ -53,15 +53,6 @@ Hover an English word for ~5 seconds, get a card with Chinese definition, phonet
 
 ---
 
-## 🔬 Research
-
-### 🧪 PINN + PhysicsHead · Physics-Informed Video Prediction
-> PyTorch
-
-**InkDrop**, a curated benchmark of 332 ink-diffusion-in-water clips with per-frame masks, plus a physics-informed training framework: a 125K-param **PhysicsHead** decodes the TAU backbone into concentration and velocity fields, supervised by advection–diffusion PDE residuals, Farnebäck optical-flow pseudo-labels, and mask constraints — present only during training, discarded at inference. Best config: **MSE −28.3%** vs TAU baseline (SSIM 0.942, PSNR 32.11 dB). PhysicsHead is packaged separately as a compact, removable auxiliary head.
-
----
-
 ## 🛠️ More Things I've Built
 
 | Project | What it is |
@@ -100,7 +91,7 @@ Hover an English word for ~5 seconds, get a card with Chinese definition, phonet
 ## 🛠️ Tech I Use
 
 - **Languages:** Python · TypeScript/JavaScript · Solidity · C/C++
-- **Domains:** AI Agents & LLM systems · Web3 / smart contracts · Quant trading · Full-stack web · Video prediction
+- **Domains:** AI Agents & LLM systems · Web3 / smart contracts · Quant trading · FinTech · Full-stack web
 
 ---
 
