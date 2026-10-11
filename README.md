@@ -87,6 +87,7 @@ Hover an English word for ~5 seconds, get a card with Chinese definition, phonet
 
 - 🧠 ENTJ | Builder mindset
 - 🪙 **BTC holder** — long-term conviction in hard money
+- 🔐 **Cypherpunk** — privacy and sovereignty are not features, they are the point
 - 🤖 AI agents & autonomous systems — how they reason, remember, and transact
 - 🗣️ Deep discussions on politics, technology & society
 - 📈 Quantitative investing & algorithmic strategies
