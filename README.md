@@ -46,23 +46,6 @@ Binance USDT-M **mid/low-frequency** framework: trend breakout + time-series mom
 
 Upload data → auto-clean → quality scorecard → streaming Q&A → NL2Vis chart workbench → one-click reports. **Skill-first routing**: an LLM picks from 6 deterministic skills (stats / viz / trend / correlation / distribution / profile), evidence tables are computed by scripts before any explanation is generated — rules first, LLM explains, hallucination structurally excluded. POST-body SSE streaming, sandboxed code execution, 4-agent deep reports, graceful degradation everywhere. 338 unit tests.
 
-### 🈶 Easy Translator · Hover-to-Translate
-> [Edge Add-ons store](https://microsoftedge.microsoft.com/addons/detail/lnnglikclimokbdcgnpjelpigopdkjeb) · JavaScript
-
-Hover an English word for ~5 seconds, get a card with Chinese definition, phonetics and examples. **Published on the Edge store**, plus a Windows desktop companion (Notepad / Word / WeChat — anywhere outside the browser). Built-in pdf.js reader for PDFs, local small-model engine (Ollama) for offline use, local vision-model OCR as the last-resort channel for text inside images. Strict gating: no recognized English word, no popup — ever.
-
----
-
-## 🛠️ More Things I've Built
-
-| Project | What it is |
-|---|---|
-| 🎭 **Human-Touch-Roundtable** | Self-hostable social-deduction game: humans and AI mixed at one table, three rounds + a debate + a reveal vote. TypeScript game core, Socket.IO sessions, SQLite persistence with crash recovery. |
-| 🏛️ **RUCDAO** | Volunteer-service platform for Renmin University: PoV (Proof of Volunteer) contribution records, soulbound RUCOIN credence tokens, double-ended student/organizer flows. Compliance-first: no fiat peg, no transferability. |
-| 📝 **PAPER-SKILL** | A Claude Code skill that turns CUMCM (China's national math-modeling contest) paper writing from intuition into discipline — judging criteria, red lines, abstract paradigms extracted from real winning papers, compliance checker, LaTeX template. `npx github:Fishman-free/PAPER-SKILL` |
-| ⚡ **c-problem** | Complete reproducible pipeline for CUMCM 2026 Problem C (microgrid dispatch): sparse LP, mean–CVaR stochastic strategies, ablations, sensitivity, 16 vector figures, paper source. |
-| ✒️ **jianzhen.skill** | A writing-perspective skill distilled from 8 first-hand interviews and 23 works of Taiwanese essayist 简媜 — mental models, decision heuristics, and expression DNA for "humid" prose. |
-
 ---
 
 ## 🏆 Competitions & Projects
